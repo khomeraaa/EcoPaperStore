@@ -63,7 +63,7 @@ renderAllProducts(packaging, 'Packaging')
 
 
 
-
+console.log('error');
 // rendered buttons activation/deactivation on click (should reread)
 document.addEventListener('DOMContentLoaded', function () {
   const buttons = document.querySelectorAll(".btn");
